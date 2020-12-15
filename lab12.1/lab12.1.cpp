@@ -1,7 +1,5 @@
 ﻿#include <iostream>
 
-using namespace std;
-
 struct Elem
 {
     Elem* link1,
